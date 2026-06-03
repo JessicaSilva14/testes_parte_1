@@ -1,0 +1,11 @@
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\entity\Pessoa.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\service\AnalisadorGrupoService.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\repository\secondary\LogEventoRepository.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\config\PrimaryDataSourceConfig.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\repository\primary\PessoaRepository.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\repository\tertiary\RelatorioGrupoRepository.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\entity\LogEvento.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\entity\RelatorioGrupo.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\config\SecondaryDataSourceConfig.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\config\TertiaryDataSourceConfig.java
+D:\PROJETOS COM JAVA\TESTES-1\TESTES\src\main\java\br\com\testes\TestesApplication.java
